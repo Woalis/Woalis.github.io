@@ -1,2 +1,2 @@
-# woalis.github.io
+# Woalis.github.io
 A GitHub Pages thing.
