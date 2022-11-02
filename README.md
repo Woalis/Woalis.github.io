@@ -1,6 +1,6 @@
 <h1 align="center">Woalis 🌲 Linktree</h1>
 
-This linktree alternative has been adapted from [johnggli/linktree](https://github.com/johnggli/linktree), John Emerson.
+This [linktree alternative](https://woalis.github.io/) has been adapted from [johnggli/linktree](https://github.com/johnggli/linktree), John Emerson.
 
 ## 🧭 Usage
 
