@@ -1,5 +1,9 @@
 <h1 align="center"><a href="https://woalis.github.io/">Woalis 🌲 Linktree</a></h1>
 
+See the linktree by clicking above ⬆️, or view more [profiles 🔖](https://github.com/Woalis/Woalis.github.io/blob/main/profiles.md).
+
+# 🪄 About
+
 This linktree alternative has been adapted from [johnggli/linktree](https://github.com/johnggli/linktree), by John Emerson.
 
 ## 🧭 Usage
